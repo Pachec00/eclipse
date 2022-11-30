@@ -6,6 +6,7 @@ public class javi {
 		// TODO Auto-generated method stub
 		System.out.println("hola");/////
 		System.out.println("adios");
+		int a = 0;
 
 	}
 
